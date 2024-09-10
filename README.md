@@ -13,8 +13,8 @@ BF for people who aint got the time for all of that typing. Example helloworld.m
     > {+|7}
     > {+|10} 
     > {+|3}                  
-    > +                     add  1 to cell #4
-    {<|4} -                  decrement counter (cell #0)
+    > +                     
+    {<|4} -                
 ]                   
 > ++ .                  print 'H'
 > + .                   print 'e'
@@ -22,7 +22,7 @@ BF for people who aint got the time for all of that typing. Example helloworld.m
 .                       print 'l'
 +++ .                   print 'o'
 > ++ .                  print ' '
-<< {+|15} .  print 'W'
+<< {+|15} .             print 'W'
 > .                     print 'o'
 +++ .                   print 'r'
 {-|5} - .               print 'l'
